@@ -1,0 +1,15 @@
+/home/joopedro/RiderProjects/BubbleShort/BubbleShort/bin/Debug/net7.0/BubbleShort
+/home/joopedro/RiderProjects/BubbleShort/BubbleShort/bin/Debug/net7.0/BubbleShort.deps.json
+/home/joopedro/RiderProjects/BubbleShort/BubbleShort/bin/Debug/net7.0/BubbleShort.runtimeconfig.json
+/home/joopedro/RiderProjects/BubbleShort/BubbleShort/bin/Debug/net7.0/BubbleShort.dll
+/home/joopedro/RiderProjects/BubbleShort/BubbleShort/bin/Debug/net7.0/BubbleShort.pdb
+/home/joopedro/RiderProjects/BubbleShort/BubbleShort/obj/Debug/net7.0/BubbleShort.csproj.AssemblyReference.cache
+/home/joopedro/RiderProjects/BubbleShort/BubbleShort/obj/Debug/net7.0/BubbleShort.GeneratedMSBuildEditorConfig.editorconfig
+/home/joopedro/RiderProjects/BubbleShort/BubbleShort/obj/Debug/net7.0/BubbleShort.AssemblyInfoInputs.cache
+/home/joopedro/RiderProjects/BubbleShort/BubbleShort/obj/Debug/net7.0/BubbleShort.AssemblyInfo.cs
+/home/joopedro/RiderProjects/BubbleShort/BubbleShort/obj/Debug/net7.0/BubbleShort.csproj.CoreCompileInputs.cache
+/home/joopedro/RiderProjects/BubbleShort/BubbleShort/obj/Debug/net7.0/BubbleShort.dll
+/home/joopedro/RiderProjects/BubbleShort/BubbleShort/obj/Debug/net7.0/refint/BubbleShort.dll
+/home/joopedro/RiderProjects/BubbleShort/BubbleShort/obj/Debug/net7.0/BubbleShort.pdb
+/home/joopedro/RiderProjects/BubbleShort/BubbleShort/obj/Debug/net7.0/BubbleShort.genruntimeconfig.cache
+/home/joopedro/RiderProjects/BubbleShort/BubbleShort/obj/Debug/net7.0/ref/BubbleShort.dll
